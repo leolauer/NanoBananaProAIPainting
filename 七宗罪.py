@@ -21,7 +21,7 @@ Section 3: Micro-Expression Study of half-body photos :
 [in color, with different solid background][based on the entry, render character with lingerie, dressed, without lingerie, where applicable to the scene]
 On the most left, render a full body illustration of the character. then,
 
-Draw 14 distinct emotive states. Run the pseudo-code below:
+Draw 14 distinct emotive states. 7 in each row. Run the pseudo-code below:
 ```
 # SYSTEM OVERRIDE: EMOTIONAL_MATRIX_RNG_V5.0
 # CONTEXT: CONCEPT ART / CHARACTER SHEET
