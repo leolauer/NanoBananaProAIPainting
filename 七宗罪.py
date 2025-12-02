@@ -1,5 +1,8 @@
 根据我发送的角色设定概念图，以她为主角。绘画以下的表情分解图：
 
+
+# 直接复制即可，原理只是用伪代码让AI便于理解，并不是真正需要跑python.
+
 Style: 
 
 **STYLE ENFORCEMENT:** The entire image must be rendered with an **ArtStation Marketplace High-Quality Asset Preview Style**, maintaining a cold, **Engineering Grid Paper** background. **Focus on schematic precision over emotional content.**
@@ -7,7 +10,7 @@ Style:
 
 Layout & Text:
 
- Treat the image as a "Technical Spec Sheet". 
+Treat the image as a "Technical Spec Sheet". 
 
 
 Title:
